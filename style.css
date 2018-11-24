@@ -1,0 +1,28 @@
+.images {
+	float: left; 
+}
+.context {
+	height: 480px;
+	width: 100%;
+	padding-left: 280px; 
+}
+ul  {
+	list-style-type: none;
+	font-family: rubius;
+	font-size: 18px;
+}
+.description
+{
+   padding-left : 280px;
+}
+h1{
+	font-family: Verdana;
+	font-size: 25px;
+	text-align: left;
+}
+p{
+	font-family: arial;
+	font-size: 20px;
+	text-align: left;
+
+}
